@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunixizm&label=Profile%20views&color=0e75b6&style=flat" alt="lunixizm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunixizm" alt="lunixizm" /></a> </p>
-
 - 🔭 I’m currently working on [www](https://github.com/Lunixizm/www)
 
 - 🌱 I’m currently learning **C# and React**
